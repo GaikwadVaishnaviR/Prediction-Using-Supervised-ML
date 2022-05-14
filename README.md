@@ -1,11 +1,11 @@
 # Prediction-Using-Supervised-ML
-TAsk 1 of TSF GRIP GRIP - TSF - The Spark Foundation [Data Science and Business Analysis Internship]
+Task 1 of TSF GRIP GRIP - TSF - The Spark Foundation [Data Science and Business Analysis Internship]
 
        Greetings Everyone!
-       Name:Sushmita Hada
+       Name:Vaishnavi Gaikwad
 
        -Task #0: LinkedIn Profile Improvement
-                 LinkedIn link: https://www.linkedin.com/in/sushmita-hada-2203
+                 LinkedIn link: https://www.linkedin.com/in/vaishnavi-gaikwad-694ab1201/
 
        -Task #1:Prediction using Supervised Machine Learning.
                  Software used: Jupyter Notebook.
